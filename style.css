@@ -1,0 +1,59 @@
+.ruta{
+    border: 5px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+h2{
+    border: 3px solid black;
+    min-width: 100px;
+    width: auto ;
+    background-color: aqua;
+    font-size: x-large;
+    padding: 5px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+   
+}
+
+.big{
+border: 3px solid orange;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+height: 200px;
+
+
+}
+.left{
+border: 3px solid black;
+background-color: yellow;
+width: 610px;
+height: 100px;
+text-align: center;
+margin-top: 3%;
+line-height: 100px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.right{
+border: 3px solid black;
+background-color: pink;
+width: 610px;
+height: 100px;
+text-align: center;
+margin-top: 3%;
+line-height: 100px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bigger{
+border: 3px solid yellow;
+
+
+
+
+}
